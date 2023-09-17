@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Simple_Quarto_Website",
+    "section": "",
+    "text": "This is a Quarto website. [Amaral-Zettler, Zettler, and Mincer (2020)](Baker and Hurd Jr 1968)\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#subheader-2",
+    "href": "index.html#subheader-2",
+    "title": "Simple_Quarto_Website",
+    "section": "subheader 2",
+    "text": "subheader 2\nsome more text\n\nMAKING A TABLE!\n\n\nThe with\nAioe\nFoinw\neorini\n\n\n\n\n32\n32\n32\n23\n\n\n999\n033\n23\n22\n\n\n1\n233\n11\n213\n\n\n\n\n\n    Table of contents:\n        \n            First nonsense item\n        \n        \n            second nonsense item\n            \n        \n            last nonsense item\n        \n        \n            many more nonsense items to come\n        \n    \n\n\n\n\n\n\n\n\ntext\nhere is a subheader\nrandm text.\nalso text\nthis and that\n\n\n\n\n\n\n    \n        this thing\n     \n     \n        that thing\n     \n     \n        another thing\n     \n     \n        final thing\n     \n\n here are some pictures: \n\n\n\n\nhere is a video of me rowing over summer!\nVideo\n\n\n\n\nflowchart LR\n  A[catch] --&gt; B(legs)\n  B --&gt; C{body}\n  C --&gt; D[arms]\n  D --&gt; A[finish]\n\n\nA Mermaid diagram\n\n\n\nin-line latex equation: \\(\\frac{1}{sqrt{2\\sigma-2\\pi}}\\)\nnon-inline math mode: \\[\\frac{1}{sqrt{2\\sigma-2\\pi}}\\]\nHere’s a sentence with a footnote.1 lets cite\n\nthis"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Simple_Quarto_Website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the footnote.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#slide-1",
+    "href": "slides/slides.html#slide-1",
+    "title": "presentation",
+    "section": "slide 1",
+    "text": "slide 1\nI really hope this generates a presentation please"
+  },
+  {
+    "objectID": "slides/slides.html#here-is-another-slide",
+    "href": "slides/slides.html#here-is-another-slide",
+    "title": "presentation",
+    "section": "here is another slide!",
+    "text": "here is another slide!\nlets cite something (Amaral-Zettler, Zettler, and Mincer 2020)"
+  },
+  {
+    "objectID": "slides/slides.html#here-are-some-books-i-want-to-read",
+    "href": "slides/slides.html#here-are-some-books-i-want-to-read",
+    "title": "presentation",
+    "section": "here are some books I want to read!",
+    "text": "here are some books I want to read!"
+  },
+  {
+    "objectID": "slides/slides.html#lets-code",
+    "href": "slides/slides.html#lets-code",
+    "title": "presentation",
+    "section": "lets code!",
+    "text": "lets code!\n\n\n2\n\n\n\n\n2"
+  },
+  {
+    "objectID": "slides/slides.html#references",
+    "href": "slides/slides.html#references",
+    "title": "presentation",
+    "section": "references",
+    "text": "references\n\n\n\n\n\n\nAmaral-Zettler, Linda A, Erik R Zettler, and Tracy J Mincer. 2020. “Ecology of the Plastisphere.” Nature Reviews Microbiology 18 (3): 139–51."
+  }
+]

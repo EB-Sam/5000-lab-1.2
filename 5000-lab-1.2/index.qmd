@@ -1,0 +1,95 @@
+---
+title: "Simple_Quarto_Website"
+---
+
+This is a Quarto website. [@amaral2020ecology][@baker1968intrafloral]
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# header 1
+subtext
+
+## subheader 2
+some more text
+
+| The with| Aioe | Foinw | eorini |
+|---------|:-----|------:|:------:|
+| 32      | 32   |    32 |   23   |
+| 999     | 033  |    23 |  22    |
+| 1       | 233  |    11 |   213  |
+
+: MAKING A TABLE!
+```{=html}
+<html>
+    <ol><h3>Table of contents:<h3>
+        <li>
+            First nonsense item
+        </li>
+        <li>
+            second nonsense item
+        </li>    
+        <li>
+            last nonsense item
+        </li>
+        <li>
+            many more nonsense items to come
+        </li>
+    </ol>
+<table>
+    <tr>
+        <td>
+            <h2 id="One colum of text" style="color:blue"> text<h2>here is a subheader</h2> <p>randm text.</p>
+        </td>
+        <td>
+            <h2 style="color:red"> also text</h2>
+            <p>this and that</p>
+        </td>
+    </tr>
+</table>
+
+<ul>
+    <li>
+        this thing
+     </li>
+     <li>
+        that thing
+     </li>
+     <li>
+        another thing
+     </li>
+     <li>
+        final thing
+     </li>
+</ul>
+<h1> here are some pictures: </h1>
+<img src="images/IMG_0292.JPG" alt="cate">
+<img src="images/IMG_0308.WEBP" alt="cereal guy">
+</html>
+```
+
+
+
+### here is a video of me rowing over summer!
+
+![](images/rowing.MOV)
+
+```{mermaid}
+%%| fig-cap: "A Mermaid diagram"
+%%| code-fold: false
+flowchart LR
+  A[catch] --> B(legs)
+  B --> C{body}
+  C --> D[arms]
+  D --> A[finish]
+```
+
+in-line latex equation: $\frac{1}{sqrt{2\sigma-2\pi}}$
+
+non-inline math mode: 
+$$\frac{1}{sqrt{2\sigma-2\pi}}$$
+
+Here's a sentence with a footnote.[^1] lets cite 
+
+> this 
+
+[^1]: This is the footnote.
